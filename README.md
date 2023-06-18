@@ -9,7 +9,7 @@ This is a simple implementation of the Tic Tac Toe game in Python. The game can 
   3. Open a terminal or command prompt and navigate to the directory where the Python file is located.
 
   4. Run the following command to start the game:
-        `python tic_tac_toe.py`
+        `python tictactoe.py`
         
 # How to Play
   1. The game starts with an empty 3x3 grid.
@@ -20,7 +20,7 @@ This is a simple implementation of the Tic Tac Toe game in Python. The game can 
 
    The numbering of cells is as follows:
       `1 | 2 | 3
-       4 | 5 | 6
+         4 | 5 | 6
        7 | 8 | 9`
        
    4. Players take turns entering the number of the cell they want to mark with their symbol.
