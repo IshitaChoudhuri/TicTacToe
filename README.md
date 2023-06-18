@@ -29,7 +29,7 @@ This is a simple implementation of the Tic Tac Toe game in Python. The game can 
 
    6. The game continues until one player wins or the game ends in a tie.
 
-    A player wins by having three of their symbols in a row, column, or diagonal.
+         *A player wins by having three of their symbols in a row, column, or diagonal.
     
    7. After the game ends, the winner is announced, or it is declared a tie.
 
