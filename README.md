@@ -19,9 +19,9 @@ This is a simple implementation of the Tic Tac Toe game in Python. The game can 
   3. The board is represented by a list of strings, where each string corresponds to a cell on the grid.
 
    The numbering of cells is as follows:
-      `1 | 2 | 3
-         4 | 5 | 6
-       7 | 8 | 9`
+      1 | 2 | 3
+      4 | 5 | 6
+      7 | 8 | 9
        
    4. Players take turns entering the number of the cell they want to mark with their symbol.
 
