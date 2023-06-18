@@ -39,10 +39,10 @@ This is a simple implementation of the Tic Tac Toe game in Python. The game can 
   # Game Logic
   The game logic is implemented in the provided code. The key components of the implementation are as follows:
 
-  -[The game board is represented by a list called board, where each element represents a cell on the grid.]<br>
-  -[The printBoard(board) function is used to display the current state of the game board.]<br>
-  -[The playerInput(board) function handles player input and updates the board accordingly.]<br>
-  -[The game checks for a win or tie condition after each move using the checkHor(board), checkRow(board), checkDiag(board), and checkTie(board) functions.]<br>
-  -[The current player is tracked using the currentPlayer variable, which switches between 'X' and 'O' after each move.]<br>
-  -[The game ends when there is a winner or a tie, and the result is displayed using the checkWin() function.]<br>
-  -[Players can play again by running the game again.]
+  - The game board is represented by a list called board, where each element represents a cell on the grid.<br>
+  - The printBoard(board) function is used to display the current state of the game board.<br>
+  - The playerInput(board) function handles player input and updates the board accordingly.<br>
+  - The game checks for a win or tie condition after each move using the checkHor(board), checkRow(board), checkDiag(board), and checkTie(board) functions.<br>
+  - The current player is tracked using the currentPlayer variable, which switches between 'X' and 'O' after each move.<br>
+  - The game ends when there is a winner or a tie, and the result is displayed using the checkWin() function.<br>
+  - Players can play again by running the game again.]
